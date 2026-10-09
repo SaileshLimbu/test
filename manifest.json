@@ -342,51 +342,6 @@
     "source": "ALL RADIANT KITS IOS RED (1).zip :: GORD RADIANT KIT IOS RED"
   },
   {
-    "file": "ios/Granger_Collector.zip",
-    "platform": "ios",
-    "hero": "Granger",
-    "skin": "Collector",
-    "files": 35,
-    "bytes": 9432125,
-    "source": "granger cc (default) by waitays.zip"
-  },
-  {
-    "file": "ios/Granger_Collector.zip",
-    "platform": "ios",
-    "hero": "Granger",
-    "skin": "Collector",
-    "files": 40,
-    "bytes": 13424114,
-    "source": "Default - Granger Collector iOS ISHA (SFILE.MOBI).zip"
-  },
-  {
-    "file": "ios/Granger_Collector_2.zip",
-    "platform": "ios",
-    "hero": "Granger",
-    "skin": "Collector",
-    "files": 37,
-    "bytes": 9418293,
-    "source": "Granger Collector.zip"
-  },
-  {
-    "file": "ios/Granger_Collector_3.zip",
-    "platform": "ios",
-    "hero": "Granger",
-    "skin": "Collector",
-    "files": 37,
-    "bytes": 9502068,
-    "source": "Granger collector iOS  - Default (1).zip"
-  },
-  {
-    "file": "ios/Granger_Exor.zip",
-    "platform": "ios",
-    "hero": "Granger",
-    "skin": "Exor",
-    "files": 41,
-    "bytes": 17089578,
-    "source": "[IOS] Granger Exor Script by xsprexion.zip"
-  },
-  {
     "file": "ios/Granger_Exorcist.zip",
     "platform": "ios",
     "hero": "Granger",
@@ -403,15 +358,6 @@
     "files": 40,
     "bytes": 9547991,
     "source": "Granger Legend IOS By Redmlbb.zip"
-  },
-  {
-    "file": "ios/Granger_StarfallKnight.zip",
-    "platform": "ios",
-    "hero": "Granger",
-    "skin": "StarfallKnight",
-    "files": 54,
-    "bytes": 14466312,
-    "source": "Granger Starfall Knight ios Siwoo.zip"
   },
   {
     "file": "ios/Grock_SmosTitan.zip",
