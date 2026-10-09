@@ -864,15 +864,6 @@
     "source": "Recall Pack 1.rar :: Recall Default to Seal of Anvil Crawlers Recall by Xspresxion"
   },
   {
-    "file": "ios/Recall_Sg2025.zip",
-    "platform": "ios",
-    "hero": "Recall",
-    "skin": "Sg2025",
-    "files": 3,
-    "bytes": 721485,
-    "source": "Recall Pack 1.rar :: Recall Default to Sg2025 Recall by Xspresxion"
-  },
-  {
     "file": "android/Recall_TheOrientalFighterSealOfAnvil.zip",
     "platform": "android",
     "hero": "Recall",
@@ -898,15 +889,6 @@
     "files": 3,
     "bytes": 732993,
     "source": "Recall Default to ZD APBR Recall by Xspresxion.zip"
-  },
-  {
-    "file": "ios/Recall_ZeusAbyssalThunder.zip",
-    "platform": "ios",
-    "hero": "Recall",
-    "skin": "ZeusAbyssalThunder",
-    "files": 3,
-    "bytes": 714910,
-    "source": "Zeus Abyssal Thunder Recall.zip"
   },
   {
     "file": "ios/Roger_Metrozero.zip",
