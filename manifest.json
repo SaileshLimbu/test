@@ -765,15 +765,6 @@
     "source": "Pharsa Collector IOS By Redmlbb.zip"
   },
   {
-    "file": "android/Recall_515MWorldSealOfAnvil.zip",
-    "platform": "android",
-    "hero": "Recall",
-    "skin": "515MWorldSealOfAnvil",
-    "files": 7,
-    "bytes": 352193,
-    "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: 515 M World To Seal Of Anvil"
-  },
-  {
     "file": "android/Recall_515Party2021SealOfAnvil.zip",
     "platform": "android",
     "hero": "Recall",
@@ -828,15 +819,6 @@
     "source": "Recall Pack 1.rar :: Recall Default to Fire Crown Recall by Xspresxion"
   },
   {
-    "file": "ios/Recall_FireCrown_2.zip",
-    "platform": "ios",
-    "hero": "Recall",
-    "skin": "FireCrown",
-    "files": 3,
-    "bytes": 831102,
-    "source": "Recall Pack 1.zip :: Recall Default to Fire Crown Recall by Xspresxion"
-  },
-  {
     "file": "android/Recall_HalloweenSealOfAnvil.zip",
     "platform": "android",
     "hero": "Recall",
@@ -864,24 +846,6 @@
     "source": "Recall Low Cortisol Tachyon Umamusume IOS By Redmlbb (1).zip"
   },
   {
-    "file": "android/Recall_M3SealOfAnvil.zip",
-    "platform": "android",
-    "hero": "Recall",
-    "skin": "M3SealOfAnvil",
-    "files": 7,
-    "bytes": 412220,
-    "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: M3 To Seal Of Anvil"
-  },
-  {
-    "file": "android/Recall_M4SealOfAnvil.zip",
-    "platform": "android",
-    "hero": "Recall",
-    "skin": "M4SealOfAnvil",
-    "files": 7,
-    "bytes": 351998,
-    "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: M4 To Seal Of Anvil"
-  },
-  {
     "file": "android/Recall_M5SealOfAnvil.zip",
     "platform": "android",
     "hero": "Recall",
@@ -889,15 +853,6 @@
     "files": 4,
     "bytes": 138747,
     "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: M5 To Seal Of Anvil"
-  },
-  {
-    "file": "android/Recall_Party515SealOfAnvil.zip",
-    "platform": "android",
-    "hero": "Recall",
-    "skin": "Party515SealOfAnvil",
-    "files": 7,
-    "bytes": 352182,
-    "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: Party King 515 To Seal Of Anvil"
   },
   {
     "file": "ios/Recall_SealOfAnvilCrawlers.zip",
@@ -909,15 +864,6 @@
     "source": "Recall Pack 1.rar :: Recall Default to Seal of Anvil Crawlers Recall by Xspresxion"
   },
   {
-    "file": "ios/Recall_SealOfAnvilCrawlers_2.zip",
-    "platform": "ios",
-    "hero": "Recall",
-    "skin": "SealOfAnvilCrawlers",
-    "files": 3,
-    "bytes": 581915,
-    "source": "Recall Pack 1.zip :: Recall Default to Seal of Anvil Crawlers Recall by Xspresxion"
-  },
-  {
     "file": "ios/Recall_Sg2025.zip",
     "platform": "ios",
     "hero": "Recall",
@@ -925,24 +871,6 @@
     "files": 3,
     "bytes": 721485,
     "source": "Recall Pack 1.rar :: Recall Default to Sg2025 Recall by Xspresxion"
-  },
-  {
-    "file": "android/Recall_StarWarsSealOfAnvil.zip",
-    "platform": "android",
-    "hero": "Recall",
-    "skin": "StarWarsSealOfAnvil",
-    "files": 7,
-    "bytes": 352199,
-    "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: Star Wars To Seal Of Anvil"
-  },
-  {
-    "file": "android/Recall_StellarBrillianceSealOfAnvil.zip",
-    "platform": "android",
-    "hero": "Recall",
-    "skin": "StellarBrillianceSealOfAnvil",
-    "files": 7,
-    "bytes": 352265,
-    "source": "MLBB BLUE EPIC RECALL [SEAL OF ANVIL].zip :: Stellar Brilliance To Seal Of Anvil"
   },
   {
     "file": "android/Recall_TheOrientalFighterSealOfAnvil.zip",
