@@ -1,9 +1,9 @@
 [
   {
-    "file": "ios/Aamon_CC.zip",
+    "file": "ios/Aamon_Collector.zip",
     "platform": "ios",
     "hero": "Aamon",
-    "skin": "CC",
+    "skin": "Collector",
     "files": 55,
     "bytes": 17904377,
     "source": "0.Aamon CC-Default.zip"
@@ -90,10 +90,10 @@
     "source": "NEW UPDATE Argus Star Wars - Default (SFILE.MOBI).zip"
   },
   {
-    "file": "ios/Arlott_CC.zip",
+    "file": "ios/Arlott_Collector.zip",
     "platform": "ios",
     "hero": "Arlott",
-    "skin": "CC",
+    "skin": "Collector",
     "files": 34,
     "bytes": 10684468,
     "source": "0.Arlott CC - Default.zip"
@@ -126,10 +126,10 @@
     "source": "[IOS] Beatrix Prime - Special.zip"
   },
   {
-    "file": "ios/Benedetta_CC.zip",
+    "file": "ios/Benedetta_Collector.zip",
     "platform": "ios",
     "hero": "Benedetta",
-    "skin": "CC",
+    "skin": "Collector",
     "files": 35,
     "bytes": 8960871,
     "source": "0. Benedetta CC - Default (1).zip"
@@ -342,10 +342,10 @@
     "source": "ALL RADIANT KITS IOS RED (1).zip :: GORD RADIANT KIT IOS RED"
   },
   {
-    "file": "ios/Granger_CC.zip",
+    "file": "ios/Granger_Collector.zip",
     "platform": "ios",
     "hero": "Granger",
-    "skin": "CC",
+    "skin": "Collector",
     "files": 35,
     "bytes": 9432125,
     "source": "granger cc (default) by waitays.zip"
