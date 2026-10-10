@@ -1078,5 +1078,135 @@
     "bytes": 11437403,
     "source": "Zilong Collector IOS By Redmlbb.zip",
     "image": "images/ios/Zilong_Collector.jpg"
+  },
+  {
+    "file": "ios/Aurora_KulaDiamond.zip",
+    "platform": "ios",
+    "hero": "Aurora",
+    "skin": "Kula Diamond",
+    "files": 96,
+    "bytes": 34531032,
+    "source": "[Aurora Default to Kula Diamond] Script by XSPRESXION No Password",
+    "image": "images/ios/Aurora_KulaDiamond.jpg"
+  },
+  {
+    "file": "ios/Guinevere_AthenaAsamiya.zip",
+    "platform": "ios",
+    "hero": "Guinevere",
+    "skin": "Athena Asamiya",
+    "files": 81,
+    "bytes": 32609137,
+    "source": "[Guinevere Default to Athena Asamiya] Script by XSPRESXION No Password",
+    "image": "images/ios/Guinevere_AthenaAsamiya.jpg"
+  },
+  {
+    "file": "ios/Valir_KyoKusanagi.zip",
+    "platform": "ios",
+    "hero": "Valir",
+    "skin": "Kyo Kusanagi",
+    "files": 104,
+    "bytes": 50050290,
+    "source": "[Valir Default to Kyo Kusanagi] Script by XSPRESXION No Password",
+    "image": "images/ios/Valir_KyoKusanagi.jpg"
+  },
+  {
+    "file": "ios/Dyrroth_OrochiChris.zip",
+    "platform": "ios",
+    "hero": "Dyrroth",
+    "skin": "Orochi Chris",
+    "files": 103,
+    "bytes": 40710742,
+    "source": "[Dyrroth Default to Orochi Chris] Script by XSPRESXION No Password",
+    "image": "images/ios/Dyrroth_OrochiChris.jpg"
+  },
+  {
+    "file": "ios/Chou_IoriYagami.zip",
+    "platform": "ios",
+    "hero": "Chou",
+    "skin": "Iori Yagami",
+    "files": 65,
+    "bytes": 41587138,
+    "source": "[Chou Default to Iori Yagami] Script by XSPRESXION No Password",
+    "image": "images/ios/Chou_IoriYagami.jpg"
+  },
+  {
+    "file": "ios/Karina_Leona.zip",
+    "platform": "ios",
+    "hero": "Karina",
+    "skin": "Leona",
+    "files": 88,
+    "bytes": 39527175,
+    "source": "[Karina Default to Leona] Script by XSPRESXION No Password",
+    "image": "images/ios/Karina_Leona.jpg"
+  },
+  {
+    "file": "ios/Paquito_TerryBogard.zip",
+    "platform": "ios",
+    "hero": "Paquito",
+    "skin": "Terry Bogard",
+    "files": 90,
+    "bytes": 51106986,
+    "source": "[Paquito Default to Terry Bogard] Script by XSPRESXION No Password",
+    "image": "images/ios/Paquito_TerryBogard.jpg"
+  },
+  {
+    "file": "ios/Gusion_K.zip",
+    "platform": "ios",
+    "hero": "Gusion",
+    "skin": "K",
+    "files": 86,
+    "bytes": 51192472,
+    "source": "[Gusion Default to K&#039;] Script by XSPRESXION No Password",
+    "image": "images/ios/Gusion_K.jpg"
+  },
+  {
+    "file": "ios/Masha_MaiShiranui.zip",
+    "platform": "ios",
+    "hero": "Masha",
+    "skin": "Mai Shiranui",
+    "files": 118,
+    "bytes": 68849259,
+    "source": "[Masha Default to Mai Shiranui] Script by XSPRESXION No Password",
+    "image": "images/ios/Masha_MaiShiranui.jpg"
+  },
+  {
+    "file": "ios/Layla_ParanormalOperative.zip",
+    "platform": "ios",
+    "hero": "Layla",
+    "skin": "Paranormal Operative",
+    "files": 123,
+    "bytes": 49254426,
+    "source": "[Layla Default to Paranormal Operative] Script by XSPRESXION No Password",
+    "image": "images/ios/Layla_ParanormalOperative.jpg"
+  },
+  {
+    "file": "ios/Layla_TheBeacon.zip",
+    "platform": "ios",
+    "hero": "Layla",
+    "skin": "The Beacon",
+    "files": 150,
+    "bytes": 90736578,
+    "source": "[Layla Default to The Beacon] Script by XSPRESXION No Password",
+    "image": "images/ios/Layla_TheBeacon.jpg"
+  },
+  {
+    "file": "ios/Layla_PrismaticRhythm.zip",
+    "platform": "ios",
+    "hero": "Layla",
+    "skin": "Prismatic Rhythm",
+    "files": 121,
+    "bytes": 43634995,
+    "source": "[Layla Default to Prismatic Rhythm] Script by XSPRESXION No Password",
+    "image": "images/ios/Layla_PrismaticRhythm.jpg"
+  },
+  {
+    "file": "ios/Layla_Skin8.zip",
+    "platform": "ios",
+    "hero": "Layla",
+    "skin": "Skin 8",
+    "files": 121,
+    "bytes": 57520607,
+    "source": "[Layla Default to Skin 8] Script by XSPRESXION No Password",
+    "image": "images/ios/Layla_Skin8.jpg"
   }
 ]
