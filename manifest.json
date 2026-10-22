@@ -1198,5 +1198,25 @@
     "bytes": 22050834,
     "source": "[Layla Default to Skin 8] Script by XSPRESXION No Password",
     "image": "images/ios/Layla_Skin8.jpg"
+  },
+  {
+    "file": "ios/Melissa_NobaraKugisaki.zip",
+    "platform": "ios",
+    "hero": "Melissa",
+    "skin": "NobaraKugisaki",
+    "files": 200,
+    "bytes": 46434876,
+    "source": "Melissa-Nobara-Kugisaki.zip",
+    "image": null
+  },
+  {
+    "file": "ios/Bane_MrKrab.zip",
+    "platform": "ios",
+    "hero": "Bane",
+    "skin": "MrKrab",
+    "files": 90,
+    "bytes": 44113457,
+    "source": "Bane Mr_Krab.rar",
+    "image": null
   }
 ]
