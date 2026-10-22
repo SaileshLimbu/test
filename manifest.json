@@ -1218,5 +1218,21 @@
     "bytes": 44113457,
     "source": "Bane Mr_Krab.rar",
     "image": "images/ios/Bane_MrKrab.jpg"
+  },
+  {
+    "file": "ios/Obsidia_Aspirants.zip",
+    "platform": "ios",
+    "hero": "Obsidia",
+    "skin": "Aspirants",
+    "files": 170,
+    "bytes": 140333344,
+    "source": "Obsidia Aspirants.zip",
+    "image": null,
+    "split": true,
+    "parts": [
+      "ios/Obsidia_Aspirants.z01",
+      "ios/Obsidia_Aspirants.zip"
+    ],
+    "note": "Split into 2 volumes to stay under GitHub's 100MB file limit. Rejoin with: zip -s 0 ios/Obsidia_Aspirants.zip --out Obsidia_Aspirants.zip (or scripts/join_split_zip.py), then unzip the result."
   }
 ]
